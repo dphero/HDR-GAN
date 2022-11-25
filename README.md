@@ -1,3 +1,3 @@
-## Multi-Granularity Feature Hierarchical Disentangled Representation for Text-to-Image Synthesis (ICMR2022 Pytorch implementation)
+## Multi-Granularity Feature Hierarchical Disentangled Representation for Text-to-Image Synthesis (ICMR2022)
 
 
