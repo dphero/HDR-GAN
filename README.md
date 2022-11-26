@@ -1,5 +1,7 @@
 ## Multi-Granularity Feature Hierarchical Disentangled Representation for Text-to-Image Synthesis (ICMR2022)
 
+###This is the implementation fo <Multi-Granularity Feature Hierarchical Disentangled Representation for Text-to-Image Synthesis>
+
 
 ## Dependencies
 Python 3
