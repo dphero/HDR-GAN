@@ -1,4 +1,4 @@
-## Multi-Granularity Feature Hierarchical Disentangled Representation for Text-to-Image Synthesis (ICMR2022)
+## Disentangled Representations and Hierarchical Refinement of Multi-Granularity Features for Text-to-Image Synthesis (ICMR2022)
 
 
 
